@@ -81,6 +81,10 @@ section {
    min-height: 400px;
 }
 
+section a {
+	color: white;
+}
+
 .pKiri, .pKanan, p.Tengah {
    opacity: 0;
    transition: 1s;
